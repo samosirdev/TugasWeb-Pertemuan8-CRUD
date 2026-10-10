@@ -1,15 +1,7 @@
 # CRUD Inventaris — Tugas Rutin 8
 
-Aplikasi CRUD inventaris sederhana menggunakan **PHP Native + PDO + MySQL**.
-Fitur: kelola Produk, Kategori, dan Supplier, plus pencarian dan pagination.
-
 **Nama:** Holan Kristian Samosir
 **NIM:** 4253550015
-
-## Teknologi
-- PHP 8+ (PDO, pola Singleton)
-- MySQL / MariaDB
-- HTML + CSS
 
 ## Langkah Instalasi
 
