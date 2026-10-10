@@ -18,7 +18,7 @@ Salin folder `inventaris` ke `C:\xampp\htdocs\`.
 > Alternatif lewat terminal:
 > `mysql -u root -p < database.sql`
 
-### 4. Atur koneksi (jika perlu)
+### 4. Atur koneksi
 Buka `includes/config.php`, sesuaikan `DB_USER` dan `DB_PASS` jika MySQL kamu memakai password.
 
 ### 5. Jalankan aplikasi
