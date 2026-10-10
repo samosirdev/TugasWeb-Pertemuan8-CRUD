@@ -1,8 +1,5 @@
 # CRUD Inventaris — Tugas Rutin 8
 
-**Nama:** Holan Kristian Samosir
-**NIM:** 4253550015
-
 ## Langkah Instalasi
 
 ### 1. Siapkan server lokal
